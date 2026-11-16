@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Arduino / build output
+build/
+*.bin
+*.elf
+*.map
+
+# FM-1 firmware packages belong to their authors. Never commit them here.
+*.fwsc
+
+# Editor
+.vscode/
+*.swp
